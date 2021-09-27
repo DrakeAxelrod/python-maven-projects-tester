@@ -1,0 +1,14 @@
+{
+    "projects_dir": "",
+    "project_structure": {
+        "tests_dir": "",
+        "pom_file": ""
+    },
+    "resources_path": {
+        "tests": "",
+        "pom": ""
+    },
+    "test_command": "",
+    "grade_output_dir": "",
+    "output_timestamp_format": ""
+}
