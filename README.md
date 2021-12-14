@@ -23,6 +23,10 @@ to customize the behavior of the script you can create a grader_config.json file
     "output_timestamp_format": "" // the format for the prefix of the grades outputfiles - default: %Y-%m-%d-%H-%M-%S_
 }
 ```
+
+## Contributors
+- [DrakeAxelrod](https://github.com/DrakeAxelrod)
+
 ## Required Python Library
 
 pandas - this is to convert from json to csv
